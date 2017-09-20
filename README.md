@@ -2,11 +2,11 @@
 
 **Nombre de juego / grupo** : Moshpit disaster (puede llegar a cambiar el nombre del juego)
 
-**Nombres de los integrantes** : Victoria Castro Riquelme 
-
-**Repo** : https://github.com/vicfabrice/IntroPV-MoshpitDisaster
+**Repo** : https://github.com/vicfabrice/intropv-tpBoss 
 
 **Stack** : Unity 
+
+**Storyboard**: https://app.boords.com/storyboards/q6mjk7-moshpit-disaster-game 
 
 **Idea del juego**: Cómo escapar de un recital. 
 **Sub ideas** Los lugares de recitales podrian ser lugares reales bonaerenses (luna park, cemento, river, niceto -deberia conseguir los planos o fotos desde arriba)
