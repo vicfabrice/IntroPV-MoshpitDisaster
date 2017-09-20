@@ -1,4 +1,4 @@
-# IntroPV - MoshpitDisaster
+# IntroPV - Moshpit Disaster
 
 **Nombre de juego / grupo** : Moshpit disaster (puede llegar a cambiar el nombre del juego)
 
