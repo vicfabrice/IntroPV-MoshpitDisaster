@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - People
+  - Danger
+  - Alcohol
+  - Exit
+  - Floor
+  - ShowOnFinish
+  - ShowOnPause
   layers:
   - Default
   - TransparentFX
@@ -13,7 +20,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - BlockingLayer
   - 
   - 
   - 
@@ -41,18 +48,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Woman
-    uniqueID: 2831904079
+  - name: Floor
+    uniqueID: 1465379425
     locked: 0
-  - name: Public 1
-    uniqueID: 4258025615
+  - name: Items
+    uniqueID: 2834883085
     locked: 0
-  - name: Public 2
-    uniqueID: 3531731427
-    locked: 0
-  - name: Public 3
-    uniqueID: 1312296019
-    locked: 0
-  - name: Public 4
-    uniqueID: 3979771051
+  - name: Units
+    uniqueID: 3236010773
     locked: 0
